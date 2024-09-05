@@ -40,7 +40,7 @@ export const experiencesData = [
     description:
       "Bachelor of Technology in Computer Science & Engineering",
     icon: React.createElement(LuGraduationCap),
-    date: "2021 - present",
+    date: "2021 - 2024",
   },
   {
     title: "Front-End Developer",
